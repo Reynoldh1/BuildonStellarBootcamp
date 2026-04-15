@@ -101,7 +101,9 @@ Testnet Screenshot
 
 Add screenshot file to repository:
 
-/screenshot.png
+<img width="1979" height="1122" alt="image" src="https://github.com/user-attachments/assets/9cd753b0-889a-4dcc-8e55-f4cc52a47486" />
+
+<img width="2035" height="870" alt="image" src="https://github.com/user-attachments/assets/93ac59fe-5dd0-4f22-83f4-2d0ffb3d179f" />
 
 Caption example:
 Screenshot showing successful interaction with SchedulerContract on Stellar Soroban Testnet.
